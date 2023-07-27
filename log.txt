@@ -1,0 +1,84 @@
+[LOG]: Adding courses.
+[LOG]: Adding courses.
+[LOG]: Course 'java' has been created.
+[LOG]: Course 'cpp' has been created.
+[LOG]: Courses added successfully.
+[LOG]: Courses added successfully.
+[LOG]: Adding employees.
+[LOG]: Adding employees.
+[LOG]: Employees added successfully.
+[LOG]: Employees added successfully.
+[LOG]: Enrolling employees in courses.
+[LOG]: Enrolling employees in courses.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been created.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been created.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'cpp' has been created.
+[LOG]: Enrollment for Employee 'rohit' in Course 'cpp' has been created.
+[LOG]: Employees enrolled in courses successfully.
+[LOG]: Adding enrollment for Employee ID: 45
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been created.
+[LOG]: Enrollment added successfully for Employee ID: 45
+[LOG]: Adding enrollment for Employee ID: 45
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been created.
+[LOG]: Enrollment added successfully for Employee ID: 45
+[LOG]: Adding enrollment for Employee ID: 45
+[LOG]: Enrollment for Employee 'riyaz' in Course 'cpp' has been created.
+[LOG]: Enrollment added successfully for Employee ID: 45
+[LOG]: Adding enrollment for Employee ID: 56
+[LOG]: Enrollment for Employee 'rohit' in Course 'cpp' has been created.
+[LOG]: Enrollment added successfully for Employee ID: 56
+[LOG]: Employees enrolled in courses successfully.
+[LOG]: Generating report.
+[LOG]: Generating report.
+[LOG]: Displaying Course details for course id: 12
+[LOG]: Displaying Course details for course id: 23
+[LOG]: Displaying employee details for 'riyaz'.
+[LOG]: Employee details for 'riyaz' displayed successfully.
+[LOG]: Displaying employee details for 'rohit'.
+[LOG]: Employee details for 'rohit' displayed successfully.
+[LOG]: Displaying enrollments for Employee ID: 1
+[LOG]: Enrollments for Employee ID: 1 displayed successfully.
+[LOG]: Displaying all enrollments.
+[LOG]: All enrollments displayed successfully.
+[LOG]: Report generated successfully.
+[LOG]: Report generated successfully.
+[LOG]: Enrollment for Employee 'rohit' in Course 'cpp' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'cpp' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'java' has been removed.
+[LOG]: Enrollment for Employee 'riyaz' in Course 'cpp' has been removed.
+[LOG]: Enrollment for Employee 'rohit' in Course 'cpp' has been removed.
+[LOG]: Course 'java' has been destroyed.
+[LOG]: Course 'cpp' has been destroyed.
+[LOG]: Adding courses.
+[LOG]: Adding courses.
+[LOG]: Courses added successfully.
+[LOG]: Courses added successfully.
+[LOG]: Adding employees.
+[LOG]: Adding employees.
+[LOG]: Employees added successfully.
+[LOG]: Employees added successfully.
+[LOG]: Enrolling employees in courses.
+[LOG]: Enrolling employees in courses.
+[LOG]: Enrollment for Employee 'jiya' in Course '' has been created.
+[LOG]: Employees enrolled in courses successfully.
+[LOG]: Adding enrollment for Employee ID: 6
+[LOG]: Enrollment for Employee 'jiya' in Course '' has been created.
+[LOG]: Enrollment added successfully for Employee ID: 6
+[LOG]: Employees enrolled in courses successfully.
+[LOG]: Generating report.
+[LOG]: Generating report.
+[LOG]: Displaying Course details for course id: -1
+[LOG]: Displaying employee details for 'jiya'.
+[LOG]: Employee details for 'jiya' displayed successfully.
+[LOG]: Displaying enrollments for Employee ID: 1
+[LOG]: Enrollments for Employee ID: 1 displayed successfully.
+[LOG]: Displaying all enrollments.
+[LOG]: All enrollments displayed successfully.
+[LOG]: Report generated successfully.
+[LOG]: Report generated successfully.
+[LOG]: Enrollment for Employee 'jiya' in Course '' has been removed.
+[LOG]: Enrollment for Employee 'jiya' in Course '' has been removed.
+[LOG]: Course '' has been destroyed.
